@@ -1,0 +1,11 @@
+Model Information:
+* title:	[NFS: The Run] Porsche 911 GT2 (993) RWB
+* source:	https://sketchfab.com/3d-models/nfs-the-run-porsche-911-gt2-993-rwb-6f5ffc5592064b42a2a1e6b1fc0501bf
+* author:	VückyZ (https://sketchfab.com/vuckyz123)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[NFS: The Run] Porsche 911 GT2 (993) RWB" (https://sketchfab.com/3d-models/nfs-the-run-porsche-911-gt2-993-rwb-6f5ffc5592064b42a2a1e6b1fc0501bf) by VückyZ (https://sketchfab.com/vuckyz123) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
